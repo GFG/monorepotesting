@@ -1,9 +1,9 @@
-[submodule "gfg-gpe-utilities"]
-	path = gfg-gpe-utilities
-	url = https://github.com/GFG/gfg-gpe-utilities.git
 [submodule "gfg-gpe-service-skeleton"]
 	path = gfg-gpe-service-skeleton
 	url = https://github.com/GFG/gfg-gpe-service-skeleton.git
 [submodule "gfg-gpe-service-approval"]
 	path = gfg-gpe-service-approval
 	url = https://github.com/GFG/gfg-gpe-service-approval.git
+[submodule "manofletters"]
+	path = manofletters
+	url = https://github.com/GFG/manofletters.git
