@@ -1,2 +1,2 @@
 
-// add something funnyf
+// add something funny
